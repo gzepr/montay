@@ -7,8 +7,8 @@ title: "Photos"
 
 
 <figure class="third">
-  <a href="/assets/images/photos/photo-1.jpg">
-  <img src="/assets/images/photos/photo-1.jpg"></a>
+  <a href="{{ site.url }}{{ site.baseurl }}/assets/images/photos/photo-1.jpg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/photos/photo-1.jpg"></a>
 
   <a href="/assets/images/photos/photo - 2.jpg">
   <img src="/assets/images/photos/photo - 2.jpg"></a>
