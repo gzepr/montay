@@ -6,7 +6,7 @@ title: "About"
 ## Bio
 
 Montay is an alternative rock band from Paris.
-Hello
+
 
 
 ## Members
