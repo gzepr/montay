@@ -42,4 +42,7 @@ For us to live in peace
 We say it's a foolish dream
 But we don't want to try
 
+
+
+Credits: Eric Humbert
 ```
