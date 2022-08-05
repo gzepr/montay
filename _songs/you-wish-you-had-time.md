@@ -1,10 +1,12 @@
 ---
 title:  "You Wish You Had Time"
 header:
+  teaser: "assets/images/artworks/wish.jpeg"
   image: "/assets/images/artworks/wish.jpeg"
 ---
 
 
+from album: [A Girl from the islands](/montay/ep_a_girl_from_the_islands/)
 
 
 
