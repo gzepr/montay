@@ -6,6 +6,8 @@ main:
     url: /photos/
   - title: "Songs"
     url: /songs/
+  - title: "Videos"
+    url: /videos/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
