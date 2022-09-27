@@ -128,9 +128,12 @@ author:
     - label: "Music"
       icon: "fab fa-fw fa-apple"
       url: "https://music.apple.com/fr/artist/montay/1633065834"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/channel/UCFg-VgcgUdtkIBzjUv1tEpw"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://www.instagram.com/montay_band"
 
 # Site Footer
 footer:
