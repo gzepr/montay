@@ -1,5 +1,5 @@
 ---
-title:  "A Girl From The Islands (EP) released"
+title:  "NEW EP: A Girl From The Islands is out !"
 permalink: /ep_a_girl_from_the_islands/
 ---
 
