@@ -5,7 +5,5 @@ permalink: /home/
 
 
 {% for post in site.posts limit:5 %}
-   {{ post.title }} 
-   {{ post.excerpt}}
-   {% include archive-single.html type="grid" %}
+   {% include archive-single.html type="list" %}
 {% endfor %}
