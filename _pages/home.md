@@ -1,6 +1,5 @@
 ---
 title: Home
-layout: collection
 permalink: /home/
 ---
 
