@@ -6,9 +6,7 @@ header:
 
 
 {% for post in site.posts limit:10 %}
+   {% include archive-single-ehu.html type="list" %}
    {{ post.content }}
 {% endfor %}
 
-{% for post in site.posts limit:10 %}
-   {% include archive-single.html type="list" %}
-{% endfor %}
