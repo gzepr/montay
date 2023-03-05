@@ -80,6 +80,10 @@ title: "Photos"
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/photos/02012023 (37).jpeg">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/photos/02012023 (37).jpeg">
 </a>
+  
+ <a href="{{ site.url }}{{ site.baseurl }}/assets/images/photos/02012023 (35).jpeg">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/photos/02012023 (35).jpeg">
+</a>
 
 <a href="{{ site.url }}{{ site.baseurl }}/assets/images/photos/02012023 (39).jpeg">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/photos/02012023 (39).jpeg">
