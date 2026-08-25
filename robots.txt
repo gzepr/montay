@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Disallow: /montay/_site/
+Disallow: /montay/_posts/
+Disallow: /montay/_pages/
+Disallow: /montay/_songs/
+Disallow: /montay/_includes/
+Disallow: /montay/_layouts/
+Disallow: /montay/_sass/
+Disallow: /montay/_data/
+Disallow: /montay/.sass-cache/
+Disallow: /montay/docs/
+Disallow: /montay/test/
+Disallow: /montay/_tmptest/
+Disallow: /montay/node_modules/
+
+Sitemap: https://gzepr.github.io/montay/sitemap.xml

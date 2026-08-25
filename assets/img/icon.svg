@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Montay">
+  <rect width="100" height="100" rx="22" fill="#0c0b0e"/>
+  <path d="M25 76V24l25 30 25-30v52" fill="none" stroke="#e88a6d" stroke-width="13"
+        stroke-linecap="square" stroke-linejoin="miter"/>
+</svg>

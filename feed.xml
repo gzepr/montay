@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Montay — news</title>
+  <link>https://gzepr.github.io/montay/</link>
+  <atom:link href="https://gzepr.github.io/montay/feed.xml" rel="self" type="application/rss+xml"/>
+  <description>Montay is a Paris-based alternative rock band. Songs, lyrics, videos, photos and news — including the EP A Girl From The Islands.</description>
+  <language>en</language>
+  <lastBuildDate>Tue, 12 Aug 2025 09:00:00 GMT</lastBuildDate>
+  <item>
+    <title>We're working on our second EP</title>
+    <link>https://gzepr.github.io/montay/news/second-ep-announcement/</link>
+    <guid isPermaLink="true">https://gzepr.github.io/montay/news/second-ep-announcement/</guid>
+    <pubDate>Tue, 12 Aug 2025 09:00:00 GMT</pubDate>
+    <description>New creative territory and fresh sounds after A Girl From The Islands — with behind-the-scenes to come.</description>
+  </item>
+  <item>
+    <title>New video: Entertained (live)</title>
+    <link>https://gzepr.github.io/montay/news/entertained-live-video/</link>
+    <guid isPermaLink="true">https://gzepr.github.io/montay/news/entertained-live-video/</guid>
+    <pubDate>Mon, 14 Jul 2025 09:00:00 GMT</pubDate>
+    <description>A live recording of Entertained is up on YouTube. The studio version lands on the second EP.</description>
+  </item>
+  <item>
+    <title>Live at Supersonic for the EP launch</title>
+    <link>https://gzepr.github.io/montay/news/live-at-supersonic/</link>
+    <guid isPermaLink="true">https://gzepr.github.io/montay/news/live-at-supersonic/</guid>
+    <pubDate>Sun, 25 Dec 2022 09:00:00 GMT</pubDate>
+    <description>Montay on stage at Supersonic, Paris, to launch the EP A Girl From The Islands.</description>
+  </item>
+  <item>
+    <title>Official video: People We Don't Know</title>
+    <link>https://gzepr.github.io/montay/news/people-we-dont-know-video/</link>
+    <guid isPermaLink="true">https://gzepr.github.io/montay/news/people-we-dont-know-video/</guid>
+    <pubDate>Sun, 30 Oct 2022 09:00:00 GMT</pubDate>
+    <description>The official video for People We Don't Know, from the Montay EP A Girl From The Islands, is out now on YouTube.</description>
+  </item>
+  <item>
+    <title>Official video: You Wish You Had Time</title>
+    <link>https://gzepr.github.io/montay/news/you-wish-you-had-time-video/</link>
+    <guid isPermaLink="true">https://gzepr.github.io/montay/news/you-wish-you-had-time-video/</guid>
+    <pubDate>Tue, 27 Sep 2022 09:00:00 GMT</pubDate>
+    <description>Our first official video, for You Wish You Had Time, is out now on YouTube — from the EP A Girl From The Islands.</description>
+  </item>
+  <item>
+    <title>New EP: A Girl From The Islands is out</title>
+    <link>https://gzepr.github.io/montay/news/a-girl-from-the-islands-ep/</link>
+    <guid isPermaLink="true">https://gzepr.github.io/montay/news/a-girl-from-the-islands-ep/</guid>
+    <pubDate>Tue, 12 Jul 2022 09:00:00 GMT</pubDate>
+    <description>A Girl From The Islands, the first Montay EP — five songs — is out now and available on every streaming platform.</description>
+  </item>
+  <item>
+    <title>New photos in the gallery</title>
+    <link>https://gzepr.github.io/montay/news/new-photos/</link>
+    <guid isPermaLink="true">https://gzepr.github.io/montay/news/new-photos/</guid>
+    <pubDate>Sat, 02 Jul 2022 09:00:00 GMT</pubDate>
+    <description>A fresh batch of live shots and portraits from Montay has been added to the photo gallery.</description>
+  </item>
+</channel>
+</rss>
