@@ -671,6 +671,7 @@ function head({
 <link rel="manifest" href="${root}manifest.webmanifest">
 <link rel="preload" href="${root}assets/fonts/montserrat-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="${root}assets/css/site.css">
+<script>document.documentElement.classList.add("js")</script>
 <link rel="alternate" type="application/rss+xml" title="Montay — news" href="${ABS}/feed.xml">
 <meta property="og:site_name" content="Montay">
 <meta property="og:type" content="${type}">
